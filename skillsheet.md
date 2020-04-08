@@ -5,9 +5,8 @@
 | ---- | ---- |
 |  Name  |  Yuki Sato  |
 |  Birth  |  24  |
-|  Birth  |  24  |
 |  Location  |  神奈川県川崎市  |
-|  Education  |  24  |
+|  Education  |  杏林大学救急救命学科  |
 |  Twitter  |  @Yuuki46240345  |
 
 ## 転職志望

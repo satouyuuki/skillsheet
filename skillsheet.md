@@ -18,9 +18,10 @@
 * 1月の後半から毎週開催しており、コロナの影響が出てからはオンラインで開催しております
 
 ポートフォリオ
-* 自分用勉強会メモツール作成中 (5月の第一週公開予定)
+* [自分用勉強会メモツール](http://yuuki-aws-dev.work)
     * 言語: PHP7.4/Mysql8.0
-    * 開発環境: Docker/AWS
+    * 本番環境: AWS
+    * [github](https://github.com/satouyuuki/event-app-php)
 
 
 ## 趣味
